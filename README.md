@@ -34,6 +34,14 @@ I'm a passionate developer and entrepreneur focused on **AI/ML**, **Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
 
+**Generative AI & LLM Engineering**
+
+![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=flat-square&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-FF6B35?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0081A7?style=flat-square&logo=elasticsearch&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-6A0DAD?style=flat-square&logo=probot&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-CC6600?style=flat-square&logo=anthropic&logoColor=white)
+
 **Web & Mobile Development**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
