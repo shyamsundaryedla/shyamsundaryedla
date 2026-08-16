@@ -1,30 +1,38 @@
 <div align="center">
 
-# Syam Sundar Yadla
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=200&section=header&text=Hi%20There,%20I'm%20Syam%20Sundar%20Yadla%20%F0%9F%91%8B&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Enthusiast%20%7C%20Building%20Intelligent%20Solutions&descAlignY=55&descSize=16" width="100%"/>
 
-**AI & Data Science Enthusiast · Building Intelligent Solutions · Entrepreneur**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=700&lines=Generative+AI+%7C+LLMs+%7C+Agentic+Systems;Turning+Data+into+Intelligent+Products;Entrepreneur+%7C+Builder+%7C+Lifelong+Learner" alt="Typing SVG" />
+</a>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syam-sundar-yadla)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syamsundaryadla)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/syam_sundar9)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/syam_sundar9)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shyamsundaryedla1@gmail.com)
 
+![Profile Views](https://komarev.com/ghpvc/?username=syamsundaryadla&color=8E2DE2&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
----
+<br/>
 
-## About Me
+## 🧑‍💻 About Me
 
 I'm a passionate developer and entrepreneur focused on **AI/ML**, **Data Science**, and **Generative AI**. I enjoy turning complex data into actionable insights and building intelligent systems that solve real-world problems.
 
 - 🔭 Currently working on **AI/ML & Generative AI projects**
 - 🌱 Learning **Data Science · AIML · LLMs · GenAI**
 - 💡 Interested in building intelligent, data-driven products
+- 🤝 Open to **collaborations** on AI/ML projects and entrepreneurial ventures
 - 📫 Reach me at **shyamsundaryedla1@gmail.com**
 
----
+<br/>
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **AI / Data Science**
 
@@ -55,27 +63,37 @@ I'm a passionate developer and entrepreneur focused on **AI/ML**, **Data Science
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
----
+<br/>
 
-## GitHub Stats
+## 📊 GitHub Analytics
+
+<table align="center">
+<tr>
+<td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=syamsundaryadla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=8E2DE2&title_color=8E2DE2&text_color=c9d1d9&bg_color=0D1117" alt="GitHub Stats"/></td>
+<td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syamsundaryadla&layout=compact&theme=tokyonight&hide_border=true&icon_color=8E2DE2&title_color=8E2DE2&text_color=c9d1d9&bg_color=0D1117" alt="Top Languages"/></td>
+</tr>
+</table>
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=syamsundaryadla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syamsundaryadla&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
+<img src="https://streak-stats.demolab.com/?user=syamsundaryadla&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2DE2&fire=8E2DE2&currStreakLabel=8E2DE2" alt="GitHub Streak" width="70%"/>
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=syamsundaryadla&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=syamsundaryadla&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%"/>
 </div>
 
----
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=syamsundaryadla&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" alt="GitHub Trophies" width="95%"/>
+</div>
+
+<br/>
 
 <div align="center">
+
+### 🤝 Let's Connect & Collaborate
 
 *Open to collaborations on AI/ML projects and entrepreneurial ventures.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=120&section=footer" width="100%"/>
 
 </div>
